@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 More text in the file.
 More text in the file.
+=======
+file2 in new_branch is different than file2 in main branch
+>>>>>>> new_branch
 
